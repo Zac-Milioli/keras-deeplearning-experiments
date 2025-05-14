@@ -1,2 +1,2 @@
-# keras-deeplearning-experiments
-Made following codebasics tutorial on Deep Learning with Keras
+# TensorFlow Deep Learning Experiments
+While I study TensorFlow for Deep Learning, I make experiments at this repository
