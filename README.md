@@ -1,2 +1,2 @@
-# TensorFlow Deep Learning Experiments
-While I study TensorFlow for Deep Learning, I make experiments at this repository
+# TensorFlow Experiments
+While I study TensorFlow, I make experiments at this repository
